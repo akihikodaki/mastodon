@@ -167,7 +167,7 @@ const en = {
   "tabs_bar.home": "Home",
   "tabs_bar.local_timeline": "Local",
   "tabs_bar.notifications": "Notifications",
-  "trend_tags.title": "Suggested tag",
+  "trend_tags.title": "Suggested tags",
   "upload_area.title": "Drag & drop to upload",
   "upload_button.label": "Add media",
   "upload_form.undo": "Undo",
